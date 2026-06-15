@@ -1,2 +1,2 @@
 This is a Readme file.
-More contents to be added soon.
+This workspace is for learning purpose.
